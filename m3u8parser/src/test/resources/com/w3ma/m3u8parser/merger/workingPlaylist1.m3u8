@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0 tvg-id="" tvg-name="Video1" tvg-logo="" group-title="A", Video1
+http://server.name/stream/to/video1
+#EXTINF:0 tvg-id="" tvg-name="Video2" tvg-logo="" group-title="B", Video2
+http://server.name/stream/to/video2
+#EXTINF:0 tvg-id="" tvg-name="Video3" tvg-logo="" group-title="A", Video3
+http://server.name/stream/to/video3
+#EXTINF:0 tvg-id="" tvg-name="Video4" tvg-logo="" group-title="C", Video4
+http://server.name/stream/to/video4

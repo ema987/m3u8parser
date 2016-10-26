@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0 tvg-id="" tvg-name="Video5" tvg-logo="" group-title="A", Video5
+http://server.name/stream/to/video5
